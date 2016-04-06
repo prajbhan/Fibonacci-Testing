@@ -1,7 +1,6 @@
 # Fibonacci-Testing
-Fibonacci number calcuation RESTfull backend and frontend API testing
+Following documents have been uploaded in Fibonacci-Testing Repo
 
-How to access the following documents:
     Test plan - Test Plan Document.docx
     REST API tests in a Python test framework - backedntest.py & frontendtest.py
     Upload code in open source GitHub and send us a link  - https://github.com/prajbhan/Fibonacci-Testing.git
